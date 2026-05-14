@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "555193140879",
+    "firebase_url": "https://gramawastetracker-a717f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramawastetracker-a717f",
+    "storage_bucket": "gramawastetracker-a717f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555193140879:android:bebd6f6d16a2c91ebc52fa",
+        "android_client_info": {
+          "package_name": "com.example.intern_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1fFS7X9hPSDGp5LbKZn2zMxurR5bS5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555193140879:android:2d229194da1be6cbbc52fa",
+        "android_client_info": {
+          "package_name": "com.example.tractor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1fFS7X9hPSDGp5LbKZn2zMxurR5bS5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
